@@ -1,22 +1,47 @@
-# HCI Practice 1
-
-Simple projects on HCI practice. Written in Java and using Indonesian Language (some may be mixed with English). The error handle in these projects is to show
+# HCI_Introduction
+Simple beginning projects on HCI practice, using Indonesian Language (some may be mixed with English). The error handle in these projects is to show
 warning text in red when the user input the wrong format text (such as alphabetic characters in number field).
 
-Background credit: https://unsplash.com
+## Build status
+Build status of continus integration i.e. travis, appveyor etc. Ex. - 
 
-## Contoh1 (Example1)
+[![Build Status](https://travis-ci.org/akashnimare/foco.svg?branch=master)](https://travis-ci.org/akashnimare/foco)
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://ci.appveyor.com/project/akashnimare/foco/branch/master)
 
-To calculate payment from given amount and price.
+## Code style
+If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
 
-## Program2
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+ 
+## Screenshots
+Include logo/demo screenshot etc.
 
-To average three given test score of a student.
+## Tech/framework used
+Ex. -
 
-## Program3
+<b>Built with</b>
+- [Electron](https://electron.atom.io)
 
-To calculate payment from daily production.
+## Features
+What makes your project stand out?
 
-## Program4
+## Code Example
+Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-Simple calculator of two numbers with addition, substraction, multiplication, division, and modulo (remaining of division) button.
+## Installation
+Provide step by step series of examples and explanations about how to get a development env running.
+
+## API Reference
+
+Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+
+## Tests
+Describe and show how to run the tests with code examples.
+
+## How to use?
+If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+
+## License
+A short snippet describing the license (MIT, Apache etc)
+
+MIT © [Yourname]()
