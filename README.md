@@ -23,5 +23,6 @@ Simple calculator of two numbers with addition, substraction, multiplication, di
 
 # Credits
 https://www.pexels.com/photo/beautiful-blur-close-up-delicate-259707/
+
 https://www.pexels.com/photo/green-tree-268533/
 - Background images made using Figma.com
