@@ -21,6 +21,10 @@ Simple calculator of two numbers with addition, substraction, multiplication, di
 # Features
 - Error handle; when a user input data in the wrong format, a red text would appear next to the text field (e.g. text in number field).
 
+# Installation
+- Extract the archieve to a chosen folder and open it in NetBeans (or another IDE of your choice), open the project folder, and click run.
+- Extract the dist folder, double click (or execute using command line) the .jar file.
+
 # Credits
 https://www.pexels.com/photo/beautiful-blur-close-up-delicate-259707/
 
